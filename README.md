@@ -19,7 +19,7 @@ In this paper, we propose a new transformer encoder based polyp segmentation net
 You can download the training dataset and the testing dataset from this link: [Dataset](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view).
 
 ## Pretrained model
-The pretrained model is adopted from [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT). And put it in the './Pretrained models' folder for initialization. 
+The pretrained model is adopted from [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT). Please put it in the './Pretrained models' folder for initialization. 
 
 ## Training
 
